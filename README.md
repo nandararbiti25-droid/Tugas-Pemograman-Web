@@ -120,5 +120,6 @@ flowchart LR
 
 ## Pembuat
 
-Nama: Nandar Arbi
-NIM: UG54B25014
+Nama: *(isi nama kamu)*
+NIM: *(isi NIM kamu)*
+Dosen: *(isi nama dosen)*
